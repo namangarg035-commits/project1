@@ -1,0 +1,28 @@
+.ten-section{
+    width:100%;
+    height: 250px;
+    
+    padding-top: 30px;
+}
+
+.ten-upper{
+    text-align: center;
+}
+.ten-upper,h1{
+
+}
+.ten-middle{
+    text-align: center;
+}
+.ten-lower{
+    width:45%;
+    text-align: center;
+    padding-left: 420px;
+    
+
+    
+}
+.ten-lower p{
+    font-size: large;
+    color: rgba(16, 16, 16, 1);
+}

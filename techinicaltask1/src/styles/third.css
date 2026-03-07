@@ -1,0 +1,32 @@
+.thirdsection{
+    width:100%;
+}
+
+.main{
+    display: flex;
+    background-color: #FAFAFA;
+    margin: 50px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main h3{
+    font-size: 1.8rem;
+    width: 50%;
+}
+
+.right2{
+    display: flex;
+    justify-content: flex-end;   /* pushes images to right */
+    gap: 20px;
+}
+
+.certified{
+    height: 100px;
+    width: 200px;
+}
+
+.patner{
+    height: 100px;
+    width: 200px;
+}

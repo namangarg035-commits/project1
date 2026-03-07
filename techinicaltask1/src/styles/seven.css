@@ -1,0 +1,17 @@
+.sevensection{
+    width:100%;
+    height:130px;
+    display:flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    background: rgba(115, 143, 255, 0.2);
+
+}
+.seven-line{
+  width:1px;
+  height:100px;
+  background-color: rgb(193, 185, 185);
+}
+.seven-container{
+    text-align: center;
+}

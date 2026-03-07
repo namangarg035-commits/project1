@@ -1,0 +1,54 @@
+.thirteen-section{
+    width:100%;
+    height:750px;
+    display:flex;
+    flex-direction: column;
+    background-color: grey;
+    align-items: center;
+}
+.thirteen-container{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    gap:5px;
+}
+.thirteen-container-1{
+    width:30%;
+    padding: 10px 10px;
+    border: 1px solid black;
+    
+}
+.thirteen-package{
+    display: flex;
+    flex-direction: column;
+}
+.thirteen-prize-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.thirteen-container-2{
+    width:30%;
+    padding: 10px 10px;
+    border: 1px solid black;
+}
+.thirteen-container-3{
+    width:30%;
+    padding: 10px 10px;
+    border: 1px solid black;
+}
+.thirteen-features{
+    border-top: 1px solid black;
+}
+.thirteen-features ul{
+    list-style: none;
+}
+.thirteen-button{
+    width:200px;
+    height:50px;
+    border-radius: 50px;
+    border: 1px solid rgba(11, 86, 228, 1);
+;
+    background-color:  rgba(11, 86, 228, 1);
+;
+}

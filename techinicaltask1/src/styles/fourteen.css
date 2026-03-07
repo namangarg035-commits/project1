@@ -1,0 +1,18 @@
+.fourteen-section{
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height:400px;
+}
+.fourteen-section-top{
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+.fourteen-section-top-1{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    align-items: center;
+}

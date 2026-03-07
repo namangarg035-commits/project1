@@ -1,0 +1,50 @@
+.navcontainer{
+    /* width:100%; */
+    height:140px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    gap: 460px;
+    
+}
+.kdsicon{
+    width: 50%;
+    height:82px;
+    padding-top: 29px;
+    /* padding-left: 135px; */
+}
+            
+.buttonconatiner{
+    display: flex;
+    gap: 20px;
+    width: 50%;
+}
+.callbutton{
+  width: 310px;
+  height: 64px;
+  background-color: #3C83CB;
+  border-radius: 50px;
+  border: 1px solid #3C83CB;
+  font-size: 20px;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  display:flex;
+  margin-top: 38px;
+  color: white;
+}
+.bookbutton{
+  width: 310px;
+  height: 64px;
+  border: 1px solid #5b8ecb;
+  border-radius: 50px;
+  background-color: white;
+  color: #4a7ec4;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-top: 38px;
+  margin-right: 40px;
+}
+
