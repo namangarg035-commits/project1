@@ -1,9 +1,10 @@
 .fourteen-section{
-    background-color: grey;
+    
     display: flex;
     flex-direction: column;
     text-align: center;
     height:400px;
+    margin-top: 100px;;
 }
 .fourteen-section-top{
     padding-left: 60px;

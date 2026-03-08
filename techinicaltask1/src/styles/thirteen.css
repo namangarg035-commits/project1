@@ -3,7 +3,7 @@
     height:750px;
     display:flex;
     flex-direction: column;
-    background-color: grey;
+    
     align-items: center;
 }
 .thirteen-container{
@@ -13,8 +13,8 @@
     gap:5px;
 }
 .thirteen-container-1{
-    width:30%;
-    padding: 10px 10px;
+    width:25%;
+    padding: 15px 15px;
     border: 1px solid black;
     
 }
@@ -28,13 +28,13 @@
     align-items: center;
 }
 .thirteen-container-2{
-    width:30%;
-    padding: 10px 10px;
+    width:25%;
+    padding: 15px 15px;
     border: 1px solid black;
 }
 .thirteen-container-3{
-    width:30%;
-    padding: 10px 10px;
+    width:25%;
+    padding: 15px 15px;
     border: 1px solid black;
 }
 .thirteen-features{

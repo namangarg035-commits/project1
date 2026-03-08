@@ -1,10 +1,11 @@
 .fifteen-section{
     width:100%;
     display:flex;
-    padding-top:20px;
+    padding-top:30px;
     
     
-;
+    
+
 
 }
 .fifteen-left{
@@ -12,11 +13,14 @@
     display:flex;
     flex-direction: column;
     background: rgba(9, 74, 198, 1);
-    padding: 50px 25px;
+    padding:150px 50px;
     gap:8px;
+    margin-left: 50px;
+    
 }
 .fifteen-right{
     width:60%;
     background: rgba(11, 86, 228, 1);
+    margin-right: 50px;
 
 }

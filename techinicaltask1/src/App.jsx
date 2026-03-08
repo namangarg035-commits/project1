@@ -13,6 +13,7 @@ import Twelve from "./component/twelve";
 import Thirteen from "./component/thirteen";
 import Fourteen from "./component/fourteen";
 import Fifteen from "./component/fifteen";
+import "./app.css";
 
 function App(){
     return(

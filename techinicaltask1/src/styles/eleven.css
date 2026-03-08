@@ -1,17 +1,22 @@
 .eleven-section{
     width:100%;
     height:1025px;
-    background-color: black;
+    
     padding-top: 20px;
     display:flex;
     flex-direction: column;
     align-items: center;
+    
+    
 }
 .eleven-top{
     display: flex;
     width:100%;
     gap:20px;
+    justify-content: center;
     padding-bottom: 20px;
+    
+
 }
 .eleven-container{
     width:25%;
@@ -24,24 +29,24 @@
     display:flex;
     justify-content: space-between;
     padding-bottom:20px ;
+    
 }
 .eleven-container-top p{
     color: rgba(255, 255, 255, 1);
 
 }
-.eleven-container-bottom, p, h3{
-    color: rgba(255, 255, 255, 1);
 
-}
 .eleven-middle{
     display: flex;
     gap:20px;
     padding-bottom: 20px;
+    justify-content: center;
 }
 .eleven-lower{
     display: flex;
     gap:20px;
     padding-bottom: 20px;
+    justify-content: center;
     
 
 }

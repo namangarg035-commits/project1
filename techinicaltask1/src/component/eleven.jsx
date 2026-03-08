@@ -20,8 +20,8 @@ export default function Eleven() {
                     <p>1</p>
                 </div>
                 <div className='leven-container-bottom'>
-                    <h3>Store Development & Setup</h3>
-                    <p>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers.
+                    <h3 style={{color:"white"}}>Store Development & Setup</h3>
+                    <p style={{color:"white"}}>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers.
                         Whether you're launching a new store or upgrading an existing one, we ensure a seamless, high-performing eCommerce experience.</p>
                 </div>
             </div>
@@ -32,8 +32,8 @@ export default function Eleven() {
                     <p>2</p>
                 </div>
                 <div className='leven-container-bottom'>
-                    <h3>Custom Theme Development</h3>
-                    <p>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
+                    <h3 style={{color:"white"}}>Custom Theme Development</h3>
+                    <p style={{color:"white"}}>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
                         Whether you're launching a new store or upgrading an existing one, we ensure a seamless, high-performing eCommerce experience.</p>
                 </div>
             </div>
@@ -44,8 +44,8 @@ export default function Eleven() {
                     <p>3</p>
                 </div>
                 <div className='leven-container-bottom'>
-                    <h3>Custom Development & Integrations</h3>
-                    <p>We design and develop custom BigCommerce themes tailored to your brand, ensuring a seamless, high-performance shopping experience that drives conversions and engagement.</p>
+                    <h3 style={{color:"white"}}>Custom Development & Integrations</h3>
+                    <p style={{color:"white"}}>We design and develop custom BigCommerce themes tailored to your brand, ensuring a seamless, high-performance shopping experience that drives conversions and engagement.</p>
                 </div>
             </div>
         </div>
@@ -56,8 +56,8 @@ export default function Eleven() {
                     <p>4</p>
                 </div>
                 <div className='leven-container-bottom'>
-                    <h3>BigCommerce B2B Development</h3>
-                    <p>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
+                    <h3 style={{color:"white"}}>BigCommerce B2B Development</h3>
+                    <p style={{color:"white"}}>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
                         Whether you're launching a new store or upgrading an existing one, we ensure a seamless.</p>
                 </div>
             </div>
@@ -68,8 +68,8 @@ export default function Eleven() {
                     <p>5</p>
                 </div>
                 <div className='leven-container-bottom'>
-                    <h3>BigCommerce Platform Migration</h3>
-                    <p>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers.
+                    <h3 style={{color:"white"}}>BigCommerce Platform Migration</h3>
+                    <p style={{color:"white"}}>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers.
                         Whether you're launching a new store or upgrading an existing one, we ensure a seamless.</p>
                 </div>
             </div>
@@ -80,8 +80,8 @@ export default function Eleven() {
                     <p>6</p>
                 </div>
                 <div className='leven-container-bottom'>
-                    <h3>Multi-Storefront & Internationalization</h3>
-                    <p>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
+                    <h3 style={{color:"white"}}>Multi-Storefront & Internationalization</h3>
+                    <p style={{color:"white"}}>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
                         Whether you're launching a new store or upgrading an existing one, we ensure a seamless.</p>
                 </div>
             </div>
@@ -94,8 +94,8 @@ export default function Eleven() {
                     <p>7</p>
                 </div>
                 <div className='leven-container-bottom'>
-                    <h3>App & Plugin Development</h3>
-                    <p>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
+                    <h3 style={{color:"white"}}>App & Plugin Development</h3>
+                    <p style={{color:"white"}}>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
                         Whether you're launching a new store or upgrading an existing one, we ensure a seamless.</p>
                 </div>
             </div>
@@ -106,8 +106,8 @@ export default function Eleven() {
                     <p>8</p>
                 </div>
                 <div className='leven-container-bottom'>
-                    <h3>Headless Commerce & API Development</h3>
-                    <p>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
+                    <h3 style={{color:"white"}}>Headless Commerce & API Development</h3>
+                    <p style={{color:"white"}}>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
                         Whether you're launching a new store or upgrading an existing one, we ensure a seamless.</p>
                 </div>
             </div>
@@ -118,8 +118,8 @@ export default function Eleven() {
                     <p>9</p>
                 </div>
                 <div className='eleven-container-bottom'>
-                    <h3>Headless eCommerce</h3>
-                    <p>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
+                    <h3 style={{color:"white"}}>Headless eCommerce</h3>
+                    <p style={{color:"white"}}>we specialize in designing, developing, and setting up BigCommerce stores that drive engagement, conversions, and repeat customers. 
                         Whether you're launching a new store or upgrading an existing one, we ensure a seamless.</p>
                 </div>
             </div>
