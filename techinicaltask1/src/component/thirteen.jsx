@@ -6,7 +6,7 @@ export default function Thirteen() {
   
     return (
       <div className='thirteen-section'>
-        <h1>Our Packages</h1>
+        <h1 style={{ marginBottom: "40px" }}>Our Packages</h1>
         <div className='thirteen-container'>
             <div className='thirteen-container-1'>
                 <div className='thirteen-package'>

@@ -6,7 +6,7 @@ export default function Fourteen()  {
   
     return (
       <div className='fourteen-section'>
-        <h1>Got Questions? We’ve Got Answers.<br></br>FAQs</h1>
+        <h1 style={{ fontWeight: "normal" }} ><strong>Got Questions? </strong>We’ve Got Answers.<br></br>FAQs</h1>
         <div className='fourteen-section-top'>
             <div className='fourteen-section-top-1'>
                 <p>Where are you located?</p>

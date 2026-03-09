@@ -25,7 +25,8 @@
     height:321px;
     display:flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
+    gap:20px;
     margin-left:150px;
     
 }
@@ -46,7 +47,8 @@
     height:321px;
     display:flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
+    gap:20px;
     margin-left:350px;
 }
 

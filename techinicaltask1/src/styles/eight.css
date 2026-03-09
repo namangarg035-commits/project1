@@ -17,13 +17,15 @@
     display:flex;
     padding-bottom: 50px;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
+    gap:20px;
 }
 .eight-lower{
     display:flex;
     padding-bottom: 50px;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
+    gap:20px;
 }
 .eight-container{
     width:250px;

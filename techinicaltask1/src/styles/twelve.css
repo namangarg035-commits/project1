@@ -6,6 +6,7 @@
     background: rgba(110, 83, 226, 1);
     align-items: center;
     padding-top: 40px;
+    
  
 }
 .twelve-heading{
@@ -23,4 +24,5 @@
     background: rgba(244, 250, 254, 1);
     color:blue;
     border-radius: 50px;
+    border: 1px solid rgba(52, 100, 253, 1);
 }

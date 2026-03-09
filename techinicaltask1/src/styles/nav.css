@@ -1,6 +1,6 @@
 .navcontainer{
     /* width:100%; */
-    height:140px;
+    height:130px;
     display:flex;
     flex-direction:row;
     justify-content: space-around;
@@ -10,6 +10,7 @@
 .kdsicon{
     width: 50%;
     height:82px;
+    
     padding-top: 29px;
     /* padding-left: 135px; */
 }
@@ -20,7 +21,7 @@
     width: 50%;
 }
 .callbutton{
-  width: 310px;
+  width: 200px;
   height: 64px;
   background-color: #3C83CB;
   border-radius: 50px;
@@ -35,7 +36,7 @@
   color: white;
 }
 .bookbutton{
-  width: 310px;
+  width: 280px;
   height: 64px;
   border: 1px solid #5b8ecb;
   border-radius: 50px;
