@@ -1,0 +1,19 @@
+.seventeen-main{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    padding: 20px 0;
+    
+    background: rgba(245, 248, 250, 1);
+
+
+}
+
+.seventeen-button{
+    padding:10px 22px;
+    background: var(--Primary-Color, rgba(11, 86, 228, 1));
+    border:none;
+    border-radius: 50px;
+    color:white;
+
+}

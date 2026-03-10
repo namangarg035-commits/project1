@@ -53,8 +53,7 @@
 }
 
 .eleven-button{
-    width:200px;
-    height:50px;
+    padding: 10px 22px;
     background: rgba(244, 250, 254, 1);
     border-radius: 50px;
     border: 1px solid rgba(52, 100, 253, 1);

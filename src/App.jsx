@@ -14,6 +14,7 @@ import Thirteen from "./component/thirteen";
 import Fourteen from "./component/fourteen";
 import Fifteen from "./component/fifteen";
 import Sixteen from "./component/sixteen";
+import Seventeen from "./component/seventeen";
 import "./app.css";
 
 function App(){
@@ -35,6 +36,7 @@ function App(){
             <Fourteen />
             <Fifteen />
             <Sixteen />
+            <Seventeen />
 
         </div>
     );

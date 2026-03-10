@@ -1,0 +1,35 @@
+.sixteen-section{
+    width:100%;
+    display: flex;  
+    padding-top:100px;
+
+}
+
+.sixteen-section-left{
+    width:20%;
+    margin-left: 150px;
+    
+}
+
+.sixteen-section-middle-1{
+    width:10%;
+    margin-left: 110px;
+    
+}
+
+.sixteen-section-middle-2{
+    width:20%;
+    margin-left:60px;
+}
+
+
+.sixteen-section-right{
+    width:10%;
+    margin-left:60px;
+}
+
+.sixteen-icons{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
