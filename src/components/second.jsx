@@ -5,13 +5,13 @@ import whatsapp from "../assets/whatsapp 1.png";
 import secondsection from '../assets/secondsection.svg';
  export default function Second(){
     return(
-        <section className="hero" style={{ backgroundImage: `url(${secondsection})` }}>
+        <section className="second" style={{ backgroundImage: `url(${secondsection})` }}>
 
-      <div className="hero-container">
+      <div className="second-container">
 
         
 
-        <div className="hero-left">
+        <div className="second-left">
           <h1>
             Custom <span>BigCommerce</span> <br />
             Development | Scalable,
@@ -25,13 +25,13 @@ import secondsection from '../assets/secondsection.svg';
             of BigCommerce for faster growth and higher sales.
           </p>
 
-          <div className="hero-buttons">
+          <div className="second-buttons">
 
-            <button className="call-btn">
+            <button className="second-call-btn">
                 <img className='telephone' src={telephone}></img>+1-585-566-2070
             </button>
 
-            <button className="whatsapp-btn">
+            <button className="second-whatsapp-btn">
               <img className='whatsapp' src={whatsapp} ></img>WhatsApp
             </button>
 
@@ -40,7 +40,7 @@ import secondsection from '../assets/secondsection.svg';
         <div className='yellow-div-box'>
           <div className='yellow-div'></div>
 
-          <div className="form-box">
+          <div className="second-form-box">
 
             <h3>
               Looking for <b>E-Commerce Development</b> Services?
