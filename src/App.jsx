@@ -15,7 +15,7 @@ import Fourteen from "./components/fourteen";
 import Fifteen from "./components/fifteen";
 import Sixteen from "./components/sixteen";
 import Seventeen from "./components/seventeen";
-import "./app.css";
+import "./App.css";
 
 function App(){
     return(
