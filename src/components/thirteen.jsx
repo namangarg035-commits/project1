@@ -67,7 +67,7 @@ export default function Thirteen() {
 
             </div>
             <div className='thirteen-container-3'>
-            
+                <p style={{background: 'rgba(11, 86, 228, 1)',margin:"-15px -15px 10px -15px", color:'white',textAlign:'center',padding:'5px 0px'}}>RECCOMMENDED</p>
                 <div className='thirteen-package'>
                     <h3>Pro Plan</h3>
                     <p>Take our best theme to the next level by adding integrations to third party apps like Flxpooint, Judge.me, Smile.io and more.</p>
