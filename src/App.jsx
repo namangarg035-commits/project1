@@ -1,20 +1,20 @@
-import Navbar from "./component/nav";
-import Second from "./component/second";
-import Third from"./component/third";
-import Fourth from "./component/fourth";
-import Fifth from "./component/fifth";
-import Sixth from "./component/sixth";
-import Seven from "./component/seven";
-import Eight from "./component/eight";
-import Nine from "./component/nine";
-import Ten from "./component/ten";
-import Eleven from "./component/eleven";
-import Twelve from "./component/twelve";
-import Thirteen from "./component/thirteen";
-import Fourteen from "./component/fourteen";
-import Fifteen from "./component/fifteen";
-import Sixteen from "./component/sixteen";
-import Seventeen from "./component/seventeen";
+import Navbar from "./components/nav";
+import Second from "./components/second";
+import Third from"./components/third";
+import Fourth from "./components/fourth";
+import Fifth from "./components/fifth";
+import Sixth from "./components/sixth";
+import Seven from "./components/seven";
+import Eight from "./components/eight";
+import Nine from "./components/nine";
+import Ten from "./components/ten";
+import Eleven from "./components/eleven";
+import Twelve from "./components/twelve";
+import Thirteen from "./components/thirteen";
+import Fourteen from "./components/fourteen";
+import Fifteen from "./components/fifteen";
+import Sixteen from "./components/sixteen";
+import Seventeen from "./components/seventeen";
 import "./app.css";
 
 function App(){

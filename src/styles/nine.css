@@ -19,12 +19,15 @@
     align-items: center;
     justify-content: center;
 }
-.eight-button{
-    width:150px;
-    height:50px;
+.nine-button{
+    padding:10px 22px;
     border-radius:50px ;
     border: 1px solid rgba(244, 250, 254, 1);
     background-color: rgba(244, 250, 254, 1);
     color: blue;
+    display: inline-flex;
+    justify-content: center;
+    text-align: center;
+    gap:6px;
 
 }

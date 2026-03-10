@@ -2,7 +2,7 @@ import React from 'react';
 import "../styles/sixth.css";
 import six1 from "../assets/six1.svg";
 import six2 from "../assets/six2.svg";
-import six3 from "../assets/six3.png";
+import six3 from "../assets/six3.svg";
 import six4 from "../assets/six4.svg";
 import six5 from "../assets/six5.svg";
 

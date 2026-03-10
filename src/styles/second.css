@@ -93,6 +93,7 @@
     padding:40px;
     border-radius:20px;
     margin-top:50px;
+    position: relative;
 }
 
 .form-box h3{
@@ -104,6 +105,7 @@ form{
     display:flex;
     flex-direction:column;
     gap:15px;
+    
 }
 
 form input,
@@ -131,4 +133,21 @@ textarea{
     border-radius:30px;
     font-weight:bold;
     cursor:pointer;
+}
+
+.yellow-div{
+    position:absolute;
+    height:150px;
+    width:490px;
+    background: rgba(255, 211, 57, 1);
+
+    right:0;
+    top:34px;
+    border-radius: 20px;
+    right:-16px;
+    
+}
+
+.yellow-div-box{
+    position: relative;
 }

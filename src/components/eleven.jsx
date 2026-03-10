@@ -124,7 +124,7 @@ export default function Eleven() {
                 </div>
             </div>
         </div>
-        <button className='eleven-button'>DISCUSS A PROJECT <FaArrowRightLong /></button>
+        <button className='eleven-button'>DISCUSS A PROJECT <span><FaArrowRightLong /> </span></button>
       </div>
     )
   

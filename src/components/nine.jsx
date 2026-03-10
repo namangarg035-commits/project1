@@ -11,7 +11,7 @@ export default function Nine() {
             <h1>Start Your BigCommerce Project Now!</h1>
         </div>
         <div className='nine-low'>
-            <button className='eight-button'>LET'S CONNECT <span className='eight-icon'><FaArrowRight /></span></button>
+            <button className='nine-button'>LET'S CONNECT <span><FaArrowRight /></span></button>
         </div>
       </div>
     )

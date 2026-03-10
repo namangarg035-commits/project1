@@ -9,7 +9,7 @@ import secondsection from '../assets/secondsection.svg';
 
       <div className="hero-container">
 
-        {/* LEFT CONTENT */}
+        
 
         <div className="hero-left">
           <h1>
@@ -37,49 +37,50 @@ import secondsection from '../assets/secondsection.svg';
 
           </div>
         </div>
+        <div className='yellow-div-box'>
+          <div className='yellow-div'></div>
 
-        {/* RIGHT FORM */}
+          <div className="form-box">
 
-        <div className="form-box">
+            <h3>
+              Looking for <b>E-Commerce Development</b> Services?
+            </h3>
 
-          <h3>
-            Looking for <b>E-Commerce Development</b> Services?
-          </h3>
+            <form>
 
-          <form>
+              <input type="text" placeholder="Full Name" />
 
-            <input type="text" placeholder="Full Name" />
+              <input type="email" placeholder="Email*" />
 
-            <input type="email" placeholder="Email*" />
+              <div className="mobile-row">
+                <select>
+                  <option>USA (+1)</option>
+                  <option>India (+91)</option>
+                  <option>UK (+44)</option>
+                </select>
 
-            <div className="mobile-row">
+                <input type="text" placeholder="Mobile Number" />
+              </div>
+
               <select>
-                <option>USA (+1)</option>
-                <option>India (+91)</option>
-                <option>UK (+44)</option>
+                <option>Services</option>
+                <option>BigCommerce Development</option>
+                <option>Shopify Development</option>
+                <option>Magento Development</option>
               </select>
 
-              <input type="text" placeholder="Mobile Number" />
-            </div>
+              <textarea
+                placeholder="To help us understand better, enter a brief description about your project."
+              ></textarea>
 
-            <select>
-              <option>Services</option>
-              <option>BigCommerce Development</option>
-              <option>Shopify Development</option>
-              <option>Magento Development</option>
-            </select>
+              <button className="submit-btn">
+                SUBMIT
+              </button>
 
-            <textarea
-              placeholder="To help us understand better, enter a brief description about your project."
-            ></textarea>
+            </form>
 
-            <button className="submit-btn">
-              SUBMIT
-            </button>
-
-          </form>
-
-        </div>
+          </div>
+          </div>
 
       </div>
 

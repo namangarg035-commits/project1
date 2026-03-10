@@ -49,3 +49,11 @@
   margin-right: 40px;
 }
 
+@media (max-width:720px) {
+  .callbutton{
+    size:20px;
+    background-color: aqua;
+
+  }
+}
+

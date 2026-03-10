@@ -3,7 +3,7 @@
     display:flex;
     justify-content: center;
     padding: 20px 0;
-    
+    position: relative;
     background: rgba(245, 248, 250, 1);
 
 
@@ -15,5 +15,20 @@
     border:none;
     border-radius: 50px;
     color:white;
+    display: flex;
+    text-align: center;
+    gap:6px;
+    cursor: pointer;
 
 }
+
+.seventeen-main p{
+    position: absolute;
+    right:40px;
+}
+
+.seventeen-main span{
+    text-align: center;
+}
+
+

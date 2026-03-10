@@ -34,7 +34,7 @@ export default function Thirteen() {
                         <li><img src={thirteen1}></img>All tax rules setup for you</li>
                     </ul>
                 </div>
-                <button className='thirteen-button'>Gets Start Today <FaArrowRight /></button>
+                <button className='thirteen-button'>Gets Start Today <span> <FaArrowRight /> </span></button>
 
             </div>
             <div className='thirteen-container-2'>
@@ -63,7 +63,7 @@ export default function Thirteen() {
                         <li><img src={thirteen1}></img>All tax rules setup for you</li>
                     </ul>
                 </div>
-                <button className='thirteen-button'>Gets Start Today <FaArrowRight /></button>
+                <button className='thirteen-button'>Gets Start Today <span> <FaArrowRight /> </span></button>
 
             </div>
             <div className='thirteen-container-3'>
@@ -93,7 +93,7 @@ export default function Thirteen() {
                         <li><img src={thirteen1}></img>All tax rules setup for you</li>
                     </ul>
                 </div>
-                <button className='thirteen-button'>Gets Start Today <FaArrowRight /></button>
+                <button className='thirteen-button'>Gets Start Today <span><FaArrowRight /> </span></button>
 
             </div>
             
