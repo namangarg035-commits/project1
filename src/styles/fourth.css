@@ -3,29 +3,27 @@
     height:150px;
     display: flex;
     gap:800px;
-
-
-
-
-
 }
-.left{
+.fourthsection-left{
     padding-left: 60px;
 }
-.right{
+.fourthsection-right{
+    display: flex;
     font-size: 40px;
     padding-top: 40px;
     gap: 10px !important;
 }
-.rightbutton{
+.fourthsection-rightbutton{
     background-color: blue;
+    padding: 10px;
     color:white;
     height:40px;
     width:40px;
     border-radius:100px;
 }
-.leftbutton{
+.fourthsection-leftbutton{
     background-color: white;
+    padding: 10px;
     height:40px;
     width:40px;
     border-radius:100px;

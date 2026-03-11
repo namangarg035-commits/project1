@@ -28,13 +28,13 @@ function App(){
             <Sixth />
             <Seven />
             <Eight />
-            <Nine />
+            <Nine /> 
             <Ten />
             <Eleven />
             <Twelve />
             <Thirteen />
             <Fourteen />
-            <Fifteen />
+            <Fifteen /> 
             <Sixteen />
             <Seventeen />
 
