@@ -19,7 +19,7 @@ import secondsection from '../assets/secondsection.svg';
             Secure & Conversion-Driven
           </h1>
 
-          <p>
+          <p style={{fontSize:"25px", fontWeight:"500", width:"650px"}}>
             From stunning store designs to seamless integrations,
             we help businesses like yours unlock the full potential
             of BigCommerce for faster growth and higher sales.
@@ -32,7 +32,7 @@ import secondsection from '../assets/secondsection.svg';
             </button>
 
             <button className="second-whatsapp-btn">
-              <img className='whatsapp' src={whatsapp} ></img>WhatsApp
+              <img className='whatsapp' src={whatsapp}></img>WhatsApp
             </button>
 
           </div>
@@ -59,7 +59,7 @@ import secondsection from '../assets/secondsection.svg';
                   <option>UK (+44)</option>
                 </select>
 
-                <input type="text" placeholder="Mobile Number" />
+                <input type="text" placeholder="Mobile Number" style={{width:"250px"}}/>
               </div>
 
               <select>

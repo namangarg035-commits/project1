@@ -1,48 +1,54 @@
-.navcontainer{
-    height:130px;
-    display:flex;
-    flex-direction:row;
-    justify-content: space-around;
-    gap: 460px;
-    
+.navcontainer {
+  height: 130px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 460px;
 
-    
+
+
 }
-.kdsicon{
-    width: 50%;
-    height:82px;
-    
-   padding-top: 20px;
-    
+
+.kdsicon {
+  width: 50%;
+  height: 82px;
+
+  padding-top: 20px;
+
 }
-            
-.buttonconatiner{
-    display: flex;
-    gap: 20px;
-    width: 50%;
+
+.buttonconatiner {
+  display: flex;
+  gap: 20px;
+  width: 50%;
 }
-.callbutton{
+
+.callbutton {
   width: 200px;
   height: 64px;
   background-color: #3C83CB;
   border-radius: 50px;
   border: 1px solid #3C83CB;
   font-size: 20px;
-  font-weight: bold;
   align-items: center;
+  font-weight: bold;
+
   justify-content: center;
   gap: 12px;
-  display:flex;
+  display: flex;
   margin-top: 30px;
   color: white;
 }
-.bookbutton{
+
+.bookbutton {
   width: 280px;
   height: 64px;
+
   border: 1px solid #5b8ecb;
   border-radius: 50px;
   background-color: white;
   color: #4a7ec4;
+
   font-size: 20px;
   font-weight: 500;
   cursor: pointer;
@@ -50,11 +56,92 @@
   margin-right: 40px;
 }
 
-@media(max-width:720px) {
-  .callbutton{
-    size:20px;
-    background-color: aqua;
+/*@media (max-width:1024px) {
+  .navcontainer {
+    gap: 150px;
+    padding: 0 20px;
+  }
 
+
+  .kdsicon {
+    width: 40%;
+  }
+
+  .callbutton {
+    width: 170px;
+    height: 55px;
+    font-size: 18px;
+  }
+
+
+  .bookbutton {
+    width: 230px;
+    height: 55px;
+    font-size: 15px;
   }
 }
 
+@media (max-width:768px) {
+
+  .navcontainer {
+    gap: 40px;
+  }
+
+  .buttonconatiner {
+    gap: 10px;
+  }
+
+  .callbutton {
+    width: 150px;
+    font-size: 10px;
+    height: 50px;
+
+  }
+
+
+  .bookbutton {
+    width: 200px;
+    height: 50px;
+    font-size: 10px;
+    margin-right: 0;
+  }
+
+}
+
+@media (max-width:480px) {
+
+  .navcontainer {
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    gap: 5px;
+    margin-bottom: 20px;
+  }
+
+
+
+  .kdsicon {
+    width: 180px;
+    height: auto;
+  }
+
+  .buttonconatiner {
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+
+  }
+
+  .callbutton {
+    width: 90%;
+    font-size: 16px;
+  }
+
+
+
+  .bookbutton {
+    width: 90%;
+    font-size: 16px;
+  }
+
+}*/

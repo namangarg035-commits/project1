@@ -17,7 +17,7 @@ export default function Eight() {
     return (
       <div className='eightsection'>
         <div className='eight-top'>
-            <h1>Trusted by Leading E-Commerce Brands</h1>
+            <h1 style={{fontWeight:"400"}}>Trusted by Leading <strong>E-Commerce</strong> Brands</h1>
         </div>
         <div className='eight-middle'>
             <div className='eight-container'>

@@ -16,7 +16,7 @@ export default function Eleven() {
         <div className='eleven-top'>
             <div className='eleven-container'>
                 <div className='eleven-container-top'>
-                    <img src={eleven1}></img>
+                    <img src={eleven1} style={{width:"70px",height:"70px"}}></img>
                     <p>1</p>
                 </div>
                 <div className='leven-container-bottom'>
@@ -28,7 +28,7 @@ export default function Eleven() {
 
             <div className='eleven-container'>
                 <div className='eleven-container-top'>
-                    <img src={eleven2}></img>
+                    <img src={eleven2} style={{width:"70px",height:"70px"}}></img>
                     <p>2</p>
                 </div>
                 <div className='leven-container-bottom'>
@@ -40,7 +40,7 @@ export default function Eleven() {
 
             <div className='eleven-container'>
                 <div className='eleven-container-top'>
-                    <img src={eleven3}></img>
+                    <img src={eleven3} style={{width:"70px",height:"70px"}}></img>
                     <p>3</p>
                 </div>
                 <div className='leven-container-bottom'>
@@ -52,7 +52,7 @@ export default function Eleven() {
         <div className='eleven-middle'>
             <div className='eleven-container'>
                 <div className='eleven-container-top'>
-                    <img src={eleven4}></img>
+                    <img src={eleven4} style={{width:"70px",height:"70px"}}></img>
                     <p>4</p>
                 </div>
                 <div className='leven-container-bottom'>
@@ -64,7 +64,7 @@ export default function Eleven() {
 
             <div className='eleven-container'>
                 <div className='eleven-container-top'>
-                    <img src={eleven5}></img>
+                    <img src={eleven5} style={{width:"70px",height:"70px"}}></img>
                     <p>5</p>
                 </div>
                 <div className='leven-container-bottom'>
@@ -76,7 +76,7 @@ export default function Eleven() {
 
             <div className='eleven-container'>
                 <div className='eleven-container-top'>
-                    <img src={eleven6}></img>
+                    <img src={eleven6} style={{width:"70px",height:"70px"}}></img>
                     <p>6</p>
                 </div>
                 <div className='leven-container-bottom'>
@@ -90,7 +90,7 @@ export default function Eleven() {
         <div className='eleven-lower'>
                 <div className='eleven-container'>
                 <div className='eleven-container-top'>
-                    <img src={eleven7}></img>
+                    <img src={eleven7} style={{width:"70px",height:"70px"}}></img>
                     <p>7</p>
                 </div>
                 <div className='leven-container-bottom'>
@@ -102,7 +102,7 @@ export default function Eleven() {
 
             <div className='eleven-container'>
                 <div className='eleven-container-top'>
-                    <img src={eleven8}></img>
+                    <img src={eleven8} style={{width:"70px",height:"70px"}}></img>
                     <p>8</p>
                 </div>
                 <div className='leven-container-bottom'>
@@ -114,7 +114,7 @@ export default function Eleven() {
 
             <div className='eleven-container'>
                 <div className='eleven-container-top'>
-                    <img src={eleven9}></img>
+                    <img src={eleven9} style={{width:"70px",height:"70px"}}></img>
                     <p>9</p>
                 </div>
                 <div className='eleven-container-bottom'>

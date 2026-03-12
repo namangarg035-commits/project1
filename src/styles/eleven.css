@@ -6,7 +6,7 @@
     display:flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 90px;
+    margin-bottom: 10px;
     
     
 }
@@ -24,7 +24,8 @@
     border: 1px solid black;
     background: linear-gradient(to bottom, rgba(85,80,127,1), rgba(81,87,102,1));
     padding:20px 20px;
-    border-radius: 5px;;
+    border-radius: 5px;
+    
 }
 .eleven-container-top{
     display:flex;

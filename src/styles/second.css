@@ -43,7 +43,7 @@
 }
 
 .second-left h1{
-    font-size:40px;
+    font-size:35px;
     line-height:1.4;
 }
 
@@ -85,7 +85,7 @@
 .second-whatsapp-btn{
     width:250px;
     background:#25D366;
-
+    
     display:flex;
     align-items:center;
     gap:10px;
@@ -159,18 +159,127 @@ textarea{
 .yellow-div{
     position:absolute;
     height:150px;
-    width:490px;
+    width:480px;
 
 
     background: rgba(255, 211, 57, 1);
 
     right:0;
-    top:34px;
+    top:38px;
     border-radius: 20px;
-    right:-16px;
+    right:-11px;
     
 }
 
 .yellow-div-box{
     position: relative;
 }
+
+
+/*@media (max-width:1024px){
+  .second-container{
+    width:90%;
+  }
+  .second-left{
+    width:45%;
+  }
+  .second-left p{
+    width:100%;
+  }
+  .second-form-box{
+
+    padding:30px;
+    width:340px;
+    
+  }
+  .yellow-div{
+    width:420px;
+  }
+  .second-call-btn{
+    width:280px;
+    gap:5px;
+  }
+  .telephone{
+    width:40px;
+    height:40px;
+  }
+  .whatsapp{
+    width:40px;
+    height:40px;
+  }
+
+}
+
+
+
+@media (max-width:768px){
+  .second{
+    height:auto;
+    padding-bottom:40px;
+  }
+  .second-container{
+
+    flex-direction:column;
+    align-items:center;
+    gap:40px;
+  }
+  .second-left{
+    width:100%;
+    text-align:center;
+  }
+  .second-left h1{
+
+    font-size:32px;
+  }
+  .second-buttons{
+    justify-content:center;
+    flex-wrap:wrap;
+  }
+  .second-form-box{
+    width:100%;
+    max-width:420px;
+  }
+  .yellow-div{
+
+    width:100%;
+    left:0;
+  }
+
+}
+
+
+
+@media (max-width:480px){
+  .second::before{
+       height:1110px; 
+    }
+  .second-left h1{
+    font-size:26px;
+  }
+  .second-left p{
+    font-size:16px;
+  }
+  .second-buttons{
+    
+    align-items:center;
+    flex-direction:column;
+  }
+  .second-call-btn,
+  .second-whatsapp-btn{
+    width:100%;
+    justify-content:center;
+  }
+  .mobile-row{
+    flex-direction:column;
+  }
+  .second-form-box{
+    padding:5px 5px;
+    margin-left: -5px;
+  }
+  .yellow-div{
+    height:100px;
+    width:350px;
+    margin-left: -17px;
+  }
+
+}*/
